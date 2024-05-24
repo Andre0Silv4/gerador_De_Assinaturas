@@ -1,0 +1,3 @@
+O arquivo nesta pasta precisa ser colocado junto a imagem gerada dentro da pasta Assinaturas da Microsoft
+
+segue caminho -> C:\Users\seuUsuario\AppData\Roaming\Microsoft\Assinaturas
